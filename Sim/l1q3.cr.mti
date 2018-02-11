@@ -1,0 +1,15 @@
+D:/Verilog/Lab1/Q3/Src/d_latch.v {1 {vlog -work work -vopt D:/Verilog/Lab1/Q3/Src/d_latch.v
+QuestaSim vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module dl
+
+Top level modules:
+	dl
+
+} {} {}} D:/Verilog/Lab1/Q3/Src/test_d_latch.v {1 {vlog -work work -vopt D:/Verilog/Lab1/Q3/Src/test_d_latch.v
+QuestaSim vlog 10.1d Compiler 2012.11 Nov  1 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}}

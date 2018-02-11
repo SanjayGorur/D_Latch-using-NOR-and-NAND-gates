@@ -1,0 +1,59 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Verilog\Lab1\Q3\Sim
+vd_latch
+VX[7l0kLSiSdU3B=_J<Ji:1
+r1
+31
+InG<i1@A4Vk]K=Tc9mlHKM1
+Z1 dD:\Verilog\Lab1\Q3\Sim
+w1430398787
+8D:\Verilog\Lab1\Q3\Src\d_latch.v
+FD:\Verilog\Lab1\Q3\Src\d_latch.v
+L0 1
+Z2 OE;L;10.1d;51
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 HLLzTMG=kSbEV:l[=nGM33
+!s108 1430398795.435000
+!s107 D:\Verilog\Lab1\Q3\Src\d_latch.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:\Verilog\Lab1\Q3\Src\d_latch.v|
+!s85 0
+!i10b 1
+vdl
+V<TPlb=EThFB89nh]nOenk1
+r1
+!s85 0
+31
+IZWDcf06>[GCE>Jf:7VDDf3
+R1
+w1430737191
+8D:/Verilog/Lab1/Q3/Src/d_latch.v
+FD:/Verilog/Lab1/Q3/Src/d_latch.v
+L0 1
+R2
+R3
+!s100 V@7UENDTLVWWNb_z6:;YK2
+!s90 -reportprogress|300|-work|work|-vopt|D:/Verilog/Lab1/Q3/Src/d_latch.v|
+!s108 1430737285.705000
+!s107 D:/Verilog/Lab1/Q3/Src/d_latch.v|
+!i10b 1
+vtest
+Vk<3<[f=78GX=_HO53D;7>3
+r1
+31
+I?n5PO8=X[AN=2?b]TA;8o0
+R1
+w1430737281
+8D:/Verilog/Lab1/Q3/Src/test_d_latch.v
+FD:/Verilog/Lab1/Q3/Src/test_d_latch.v
+L0 1
+R2
+R3
+!s85 0
+!i10b 1
+!s100 OoGM2]iHY2>OGFRT5_l5U2
+!s108 1430737285.824000
+!s107 D:/Verilog/Lab1/Q3/Src/test_d_latch.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/Verilog/Lab1/Q3/Src/test_d_latch.v|

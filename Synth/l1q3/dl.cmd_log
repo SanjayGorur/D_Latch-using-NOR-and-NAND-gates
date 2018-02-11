@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/Verilog/150240133004/Lab1/Q3__/Synth/l1q3/dl.xst" -ofn "E:/Verilog/150240133004/Lab1/Q3__/Synth/l1q3/dl.syr" 
